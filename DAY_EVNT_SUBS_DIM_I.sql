@@ -1,3 +1,2 @@
--- Databricks notebook source
--- MAGIC %sql
--- MAGIC SHOW SCHEMAS;
+%sql
+SHOW SCHEMAS;
