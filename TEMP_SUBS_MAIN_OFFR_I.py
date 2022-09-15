@@ -1,2 +1,1 @@
-# Databricks notebook source
-# MAGIC %sh echo hi
+%sh echo hi
